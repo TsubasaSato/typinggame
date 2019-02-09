@@ -13,13 +13,10 @@ Go言語のソースファイルをコンパイルしてからでないと実行
 
 ## 2.1 ファイル構造
 
-typinggame/
-
-    ├README.txt
-    
-    ├typinggame.go
-
-    └words.txt
+> typinggame/
+>    ├README.txt
+>    ├typinggame.go
+>    └words.txt
 
 **各ファイルの説明**
 
